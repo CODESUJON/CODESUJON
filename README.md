@@ -3,7 +3,7 @@
 <img align="right" alt="codeing" width="400" src="https://ik.imagekit.io/dresma/Dresma_Library/manager-openings_NW3bXTTFP.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codesujon&label=Profile%20views&color=0e75b6&style=flat" alt="codesujon" /> </p>
 
-- 💬 Ask me about **HTML,CSS,JS,PHP,C,DSA,DBMS,SQL**
+- 💬 Ask me about **HTML,CSS,JS,PHP,C,SQL,Node.js, React,Express.js,Java**
 
 - 📫 How to reach me **sujonmondal942431@gmail.com**
 
